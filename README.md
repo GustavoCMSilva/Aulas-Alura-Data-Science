@@ -14,7 +14,6 @@
 - [Como cheguei até aqui](#como-cheguei-até-aqui)
 
 ## Pretensão
-<p align="justify">
 - Aprender Data Science através da plataforma Alura e ingressar no mercado de trabalho.
 - Vou atualizando meu desenvolvimento conforme progrido nos cursos
 
