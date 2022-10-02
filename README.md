@@ -1,6 +1,8 @@
+##### README
+  
 <h1 align="center">
-  <p align="center">Meu aprendizado para Data Science através do Alura
-  https://www.alura.com.br/</p>
+  <p align="center">Meu aprendizado para Data Science através do Alura</p>
+https://www.alura.com.br/
 </h1>
 
 <hr>
@@ -19,38 +21,43 @@
 
 ### Pretensão
 - Aprender Data Science através da plataforma Alura e ingressar no mercado de trabalho.
-- Vou atualizando meu desenvolvimento conforme progrido nos cursos
+- Atualizar meu desenvolvimento conforme progressão na trilha de aprendizado definida
+- Realizar projetos ao longo do aprendizado
+- Se tornar Autossuficiente a ponto de trabalhar na area
+- Mostrar meu desenvolvimento a quem se interessar
+
+[Voltar ao topo](#readme)
 
 ### Trilha de aprendizado e conclusão
-- Python para Data Science
-  - :heavy_check_mark: Python para Data Science - `21/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Python%20para%20Data%20Science)
-  - :heavy_check_mark: Python para Data Science: linguagem e Numpy - `22/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Python%20para%20Data%20Science%20linguagem%20e%20Numpy)
-  - :heavy_check_mark: Python para Data Science: Funções, Pcotes e Pandas - `23/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Python%20para%20Data%20Science%20Fun%C3%A7%C3%B5es%2C%20Pcotes%20e%20Pandas)
-  - :heavy_check_mark: Python Pandas: Tratando e analisando dados `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Python%20Pandas%20tratando%20e%20analisando%20dados)
-  - :heavy_check_mark: Pandas: formatos diferentes de entrada e saída (IO) - `28/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Pandas%20formatos%20diferentes%20de%20entrada%20e%20sa%C3%ADda%20(IO)/Aulas%20Alura)
-  - :heavy_check_mark: Data Visualization: Explorando com Seaborn - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Data%20Visualization%20Explorando%20com%20Seaborn)
-  - :heavy_check_mark: Data science: Analise de series temporais - `30/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Data%20science%20Analise%20de%20series%20temporais)
+- 01 - Python para Data Science
+  - :heavy_check_mark: Python para Data Science - `21/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science)
+  - :heavy_check_mark: Python para Data Science: linguagem e Numpy - `22/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science%20linguagem%20e%20Numpy)
+  - :heavy_check_mark: Python para Data Science: Funções, Pcotes e Pandas - `23/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science%20Fun%C3%A7%C3%B5es%2C%20Pcotes%20e%20Pandas)
+  - :heavy_check_mark: Python Pandas: Tratando e analisando dados `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20Pandas%20tratando%20e%20analisando%20dados)
+  - :heavy_check_mark: Pandas: formatos diferentes de entrada e saída (IO) - `28/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Pandas%20formatos%20diferentes%20de%20entrada%20e%20sa%C3%ADda%20(IO)/Aulas%20Alura)
+  - :heavy_check_mark: Data Visualization: Explorando com Seaborn - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20Visualization%20Explorando%20com%20Seaborn)
+  - :heavy_check_mark: Data science: Analise de series temporais - `30/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20science%20Analise%20de%20series%20temporais)
   - Corretor Ortografico em Python: Aplicando técnicas de NLP
   - Scraping com Python: Coleta de dados Web
   
-- SQL com MySQL Server da Oracle
+- 02 - SQL com MySQL Server da Oracle
   - SQL com MySQL: Manipule e consulte dados
   - Consultas SQL: Avançando no SQL com MySQL
   - Comandos DML: Manipulação de dados com MySQL
   - Procedures SQL: Executando código no MySQL
   - Administração do MySQL: Segurança e otimização do banco
   
-- Power BI
+- 03 - Power BI
   - Power BI Desktop: construindo meu primeiro dashboard
   - Dashboard com Power BI: visualizando dados
   - Power BI Desktop: tratamento de dados no Power Query
   - Power BI: Entendendo as fomulas DAX
   - Power BI: explorando recursos visuais
  
-- Data Science
-  - :heavy_check_mark: Data Science: analise e visualização de dados - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Data%20Science%20analise%20e%20visualiza%C3%A7%C3%A3o%20de%20dados)
+- 04 - Data Science
+  - :heavy_check_mark: Data Science: analise e visualização de dados - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Data%20Science%20analise%20e%20visualiza%C3%A7%C3%A3o%20de%20dados)
   - :heavy_check_mark: Estatistica 1: Entenda seus dados com R - `17/09/2022 - 8h`
-  - :heavy_check_mark: Python Pandas: Tratando e analisando dados - `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/Python%20Pandas%20tratando%20e%20analisando%20dados)
+  - :heavy_check_mark: Python Pandas: Tratando e analisando dados - `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Python%20Pandas%20tratando%20e%20analisando%20dados)
   - Estatistica com Python: frequencia e medidas
   - Estatistica com Python: probabilidade e amostragem
   - Regressão Linear: testando relaçoes e prevendo resultados
@@ -62,7 +69,7 @@
   - Data Science: análises para saúde e medicina
   - Data Science: visualização de dados para saúde e medicina
   
-- Machine Learning
+- 05 - Machine Learning
   - Machine Learning: classificação com SKLearn
   - Machine Learning: classificação por trás dos panos
   - Machine Learning: lidando com dados de muitas dimensões
@@ -72,7 +79,7 @@
   - Machine Learning parte 1: otimização de modelos através de hiperparametro
   - Machine Learning parte 2: otimização com exploração aleatória
 
-- Machine Learning para Negócios Digitais
+- 06 - Machine Learning para Negócios Digitais
   - Machine Learning: intro a sistemas de recomendações em Python
   - Classificaçao multilabel de textos: multiplos contextos em NLP
   - Modelos primitivos em dados: detecçao de fraude
@@ -82,7 +89,7 @@
   - MLOps: Machine learning e APIs
   - MLOps: deploy de modelos
 
-- Machine Learning Avançada
+- 07 - Machine Learning Avançada
   - Deep Learning parte 1: Keras
   - Deep learning parte 2: como a rede aprende
   - Deep Learning: Previsão com Keras
@@ -95,9 +102,13 @@
   - Reconhecimento de imagens: Twitter e Computer Vision API
   - Analise e Classificação de Faces: visão Computacional com OpenCV
 
+[Voltar ao topo](#readme)
+
 ### Como cheguei até aqui
 
 - Em 2010 cursei web design (html e css) no [SENAI](https://bauru.sp.senai.br), porém não era meu foco.
 - Em 2011 e 2013 alterei o site da empresa em que trabalhava, onde fiz todo o processo (html, css e arte) sozinho e tirando duvidas com outro desenvolvedor que está mencionado no rodapé do site. Links - [2011](https://web.archive.org/web/20110630175222/http://lpmoretti.com.br:80/) e [2013](https://web.archive.org/web/20130523032126/http://lpmoretti.com.br/)
 - Entre 2010 e 2015 cursei engenharia elétrica com enfase em eletrônica, onde desenvolvi alguns projetos utilizando linguagem de programação e tive que aprender um pouco sobre python, php, C, Sql... Um exemplo, meu TCC sobre a construçao completa de um sistema de automatizaçao e controle de dados de produçao para industria - [TCC](https://1drv.ms/b/s!ArNCYXi9wv7xvgZDbBVjPlCXzWAN?e=cdtRqP)
 - Em 2022 conheci através da Alura (minha mulher tinha acesso graças ao trabalho dela) a area de Ciencia de dados, onde lida com as areas que gosto bastante, matemática, lógica, estatistica e analise de informação. Desde então decidi migrar de area.
+
+[Voltar ao topo](#readme)
