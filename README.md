@@ -114,4 +114,6 @@ https://www.alura.com.br/
 [Voltar ao topo](#readme)
 
 <hr>
+<p align="center">
 Esta foi minha primeira interação com o github, onde aprendi tambem através dos cursos da plataforma Alura.
+</p>
