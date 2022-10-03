@@ -56,7 +56,7 @@ https://www.alura.com.br/
  
 - 04 - Data Science
   - :heavy_check_mark: Data Science: analise e visualização de dados - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Data%20Science%20analise%20e%20visualiza%C3%A7%C3%A3o%20de%20dados)
-  - :heavy_check_mark: Estatistica 1: Entenda seus dados com R - `17/09/2022 - 8h`
+  - :heavy_check_mark: Estatistica 1: Entenda seus dados com R - `17/09/2022 - 8h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Estatistica%201%20Entenda%20seus%20dados%20com%20R)
   - :heavy_check_mark: Python Pandas: Tratando e analisando dados - `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Python%20Pandas%20tratando%20e%20analisando%20dados)
   - Estatistica com Python: frequencia e medidas
   - Estatistica com Python: probabilidade e amostragem
