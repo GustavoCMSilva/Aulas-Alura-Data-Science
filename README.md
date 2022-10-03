@@ -112,3 +112,6 @@ https://www.alura.com.br/
 - Em 2022 conheci através da Alura (minha mulher tinha acesso graças ao trabalho dela) a area de Ciencia de dados, onde lida com as areas que gosto bastante, matemática, lógica, estatistica e analise de informação. Desde então decidi migrar de area.
 
 [Voltar ao topo](#readme)
+
+<hr>
+Esta foi minha primeira interação com o github, onde aprendi tambem através dos cursos da plataforma Alura.
