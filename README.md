@@ -68,7 +68,7 @@ https://www.alura.com.br/
   - Analise de experimentos: testes, mapas de cores e analise de dados
   - Data Science: análises para saúde e medicina
   - Data Science: visualização de dados para saúde e medicina
-  
+
 - 05 - Machine Learning
   - Machine Learning: classificação com SKLearn
   - Machine Learning: classificação por trás dos panos
@@ -89,7 +89,15 @@ https://www.alura.com.br/
   - MLOps: Machine learning e APIs
   - MLOps: deploy de modelos
 
-- 07 - Machine Learning Avançada
+- 07 - Processamento de Linguagem Natural
+  - Linguagem Natural parte 1: NLP com Analise de sentimento
+  - Linguagem Natural parte 2: continuando com analise de sentimento
+  - Corretor ortográfico em Python: aplicando técnicas de NLP
+  - NLP: regex e modelos de linguagem
+  - Word2Vec: interpretação da linguagem humana com Word embedding
+  - Word2Vec: treinamento de Word embedding
+
+- 08 - Machine Learning Avançada
   - Deep Learning parte 1: Keras
   - Deep learning parte 2: como a rede aprende
   - Deep Learning: Previsão com Keras
