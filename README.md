@@ -7,11 +7,11 @@ https://www.alura.com.br/
 
 <hr>
 
-<p align="left">
+<p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 <p align="center">
-   Horas Cursadas até o momento -> 88 Horas
+   Horas Cursadas até o momento -> 108 Horas
 </p>
 
 ## Tópicos
@@ -37,7 +37,7 @@ https://www.alura.com.br/
   - :heavy_check_mark: Pandas: formatos diferentes de entrada e saída (IO) - `28/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Pandas%20formatos%20diferentes%20de%20entrada%20e%20sa%C3%ADda%20(IO)/Aulas%20Alura)
   - :heavy_check_mark: Data Visualization: Explorando com Seaborn - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20Visualization%20Explorando%20com%20Seaborn)
   - :heavy_check_mark: Data science: Analise de series temporais - `30/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20science%20Analise%20de%20series%20temporais)
-  - Corretor Ortografico em Python: Aplicando técnicas de NLP
+  - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
   - Scraping com Python: Coleta de dados Web
   
 - 02 - SQL com MySQL Server da Oracle
@@ -92,7 +92,7 @@ https://www.alura.com.br/
 - 07 - Processamento de Linguagem Natural
   - Linguagem Natural parte 1: NLP com Analise de sentimento
   - Linguagem Natural parte 2: continuando com analise de sentimento
-  - Corretor ortográfico em Python: aplicando técnicas de NLP
+  - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
   - NLP: regex e modelos de linguagem
   - Word2Vec: interpretação da linguagem humana com Word embedding
   - Word2Vec: treinamento de Word embedding
