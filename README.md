@@ -1,8 +1,7 @@
 ##### README
   
 <h1 align="center">
-  <p align="center">Meu aprendizado para Data Science através do Alura</p>
-https://www.alura.com.br/
+  <p align="center">Meu aprendizado para Data Science através do <a href="https://www.alura.com.br/"> Alura </a></p>
 </h1>
 
 <hr>
@@ -10,9 +9,11 @@ https://www.alura.com.br/
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
-<p align="center">
-   Horas Cursadas até o momento -> 108 Horas
-</p>
+<h4 align="center">
+   Horas Cursadas até o momento -> 118 Horas <br>
+   Progressão cursada -> 19,7% <! – (13 de 66) –> <br>
+   Cursos finalizados -> Python / ... <br>
+</h4>
 
 ## Tópicos
 - [Pretensão](#pretensão)
@@ -29,7 +30,8 @@ https://www.alura.com.br/
 [Voltar ao topo](#readme)
 
 ### Trilha de aprendizado e conclusão
-- 01 - Python para Data Science
+- <h3> 01 - Python para Data Science - Finalizado - :heavy_check_mark: - <a href="https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science">:link:</a> </h3>
+
   - :heavy_check_mark: Python para Data Science - `21/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science)
   - :heavy_check_mark: Python para Data Science: linguagem e Numpy - `22/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science%20linguagem%20e%20Numpy)
   - :heavy_check_mark: Python para Data Science: Funções, Pcotes e Pandas - `23/09/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Python%20para%20Data%20Science%20Fun%C3%A7%C3%B5es%2C%20Pcotes%20e%20Pandas)
@@ -38,23 +40,26 @@ https://www.alura.com.br/
   - :heavy_check_mark: Data Visualization: Explorando com Seaborn - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20Visualization%20Explorando%20com%20Seaborn)
   - :heavy_check_mark: Data science: Analise de series temporais - `30/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Data%20science%20Analise%20de%20series%20temporais)
   - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
-  - Scraping com Python: Coleta de dados Web
-  
-- 02 - SQL com MySQL Server da Oracle
+  - :heavy_check_mark: Scraping com Python: Coleta de dados Web - `11/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Scraping%20com%20Python%20-%20coleta%20de%20dados%20na%20web)
+
+- <h3> 02 - SQL com MySQL Server da Oracle - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - SQL com MySQL: Manipule e consulte dados
   - Consultas SQL: Avançando no SQL com MySQL
   - Comandos DML: Manipulação de dados com MySQL
   - Procedures SQL: Executando código no MySQL
   - Administração do MySQL: Segurança e otimização do banco
-  
-- 03 - Power BI
+
+- <h3> 03 - Power BI - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - Power BI Desktop: construindo meu primeiro dashboard
   - Dashboard com Power BI: visualizando dados
   - Power BI Desktop: tratamento de dados no Power Query
   - Power BI: Entendendo as fomulas DAX
   - Power BI: explorando recursos visuais
  
-- 04 - Data Science
+- <h3> 04 - Data Science - <a href="https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science">:link:</a> </h3>
+
   - :heavy_check_mark: Data Science: analise e visualização de dados - `20/09/2022 - 6h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Data%20Science%20analise%20e%20visualiza%C3%A7%C3%A3o%20de%20dados)
   - :heavy_check_mark: Estatistica 1: Entenda seus dados com R - `17/09/2022 - 8h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Estatistica%201%20Entenda%20seus%20dados%20com%20R)
   - :heavy_check_mark: Python Pandas: Tratando e analisando dados - `27/09/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/04%20-%20Data%20Science/Python%20Pandas%20tratando%20e%20analisando%20dados)
@@ -69,7 +74,8 @@ https://www.alura.com.br/
   - Data Science: análises para saúde e medicina
   - Data Science: visualização de dados para saúde e medicina
 
-- 05 - Machine Learning
+- <h3> 05 - Machine Learning - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - Machine Learning: classificação com SKLearn
   - Machine Learning: classificação por trás dos panos
   - Machine Learning: lidando com dados de muitas dimensões
@@ -79,7 +85,8 @@ https://www.alura.com.br/
   - Machine Learning parte 1: otimização de modelos através de hiperparametro
   - Machine Learning parte 2: otimização com exploração aleatória
 
-- 06 - Machine Learning para Negócios Digitais
+- <h3> 06 - Machine Learning para Negócios Digitais - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - Machine Learning: intro a sistemas de recomendações em Python
   - Classificaçao multilabel de textos: multiplos contextos em NLP
   - Modelos primitivos em dados: detecçao de fraude
@@ -89,7 +96,8 @@ https://www.alura.com.br/
   - MLOps: Machine learning e APIs
   - MLOps: deploy de modelos
 
-- 07 - Processamento de Linguagem Natural
+- <h3> 07 - Processamento de Linguagem Natural - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - Linguagem Natural parte 1: NLP com Analise de sentimento
   - Linguagem Natural parte 2: continuando com analise de sentimento
   - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
@@ -97,7 +105,8 @@ https://www.alura.com.br/
   - Word2Vec: interpretação da linguagem humana com Word embedding
   - Word2Vec: treinamento de Word embedding
 
-- 08 - Machine Learning Avançada
+- <h3> 08 - Machine Learning Avançada - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+
   - Deep Learning parte 1: Keras
   - Deep learning parte 2: como a rede aprende
   - Deep Learning: Previsão com Keras
