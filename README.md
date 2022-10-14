@@ -10,8 +10,10 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 <h4 align="center">
-   Horas Cursadas até o momento -> 118 Horas <br>
-   Progressão cursada -> 19,7% <! – (13 de 66) –> <br>
+   Horas Cursadas até o momento -> 130 Horas <br>
+   <br>
+   Progressão concluída -> 21,2% <! – (13 de 66) –> <br>
+   <br>
    Cursos finalizados -> Python / ... <br>
 </h4>
 
@@ -42,9 +44,9 @@
   - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
   - :heavy_check_mark: Scraping com Python: Coleta de dados Web - `11/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Scraping%20com%20Python%20-%20coleta%20de%20dados%20na%20web)
 
-- <h3> 02 - SQL com MySQL Server da Oracle - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
+- <h3> 02 - SQL com MySQL Server da Oracle - <a href="https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle">:link:</a> </h3>
 
-  - SQL com MySQL: Manipule e consulte dados
+  - :heavy_check_mark: SQL com MySQL: Manipule e consulte dados - `14/10/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/01%20-%20SQL%20com%20MySQL%20-%20manipule%20e%20consulte%20dados)
   - Consultas SQL: Avançando no SQL com MySQL
   - Comandos DML: Manipulação de dados com MySQL
   - Procedures SQL: Executando código no MySQL
