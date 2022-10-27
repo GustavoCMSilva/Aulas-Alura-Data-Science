@@ -10,9 +10,9 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 <h4 align="center">
-   Horas Cursadas até o momento -> 144 Horas <br>
+   Horas Cursadas até o momento -> 154 Horas <br>
    <br>
-   Progressão concluída -> 21,2% <! – (14 de 66) –> <br>
+   Progressão concluída -> 22,7% <! – (15 de 66) –> <br>
    <br>
    Cursos finalizados -> Python / ... <br>
 </h4>
@@ -48,7 +48,7 @@
 
   - :heavy_check_mark: SQL com MySQL: Manipule e consulte dados - `14/10/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/01%20-%20SQL%20com%20MySQL%20-%20manipule%20e%20consulte%20dados)
   - :heavy_check_mark: Consultas SQL: Avançando no SQL com MySQL - `20/10/2022 - 14h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/02%20-%20Consultas%20SQL%20-%20%20avan%C3%A7ando%20no%20SQL%20com%20MySQL)
-  - Comandos DML: Manipulação de dados com MySQL
+  - :heavy_check_mark: Comandos DML: Manipulação de dados com MySQL - `26/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/03%20-%20Comandos%20DML%20-%20manipula%C3%A7%C3%A3o%20de%20dados%20com%20MySQL)
   - Procedures SQL: Executando código no MySQL
   - Administração do MySQL: Segurança e otimização do banco
 
