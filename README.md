@@ -10,11 +10,11 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 <h4 align="center">
-   Horas Cursadas até o momento -> 168 Horas <br>
+   Horas Cursadas até o momento -> 184 Horas <br>
    <br>
-   Progressão concluída -> 24,2% <! – (16 de 66) –> <br>
+   Progressão concluída -> 25,8% <! – (17 de 66) –> <br>
    <br>
-   Cursos finalizados -> Python / ... <br>
+   Cursos finalizados -> Python / MySQL / ... <br>
 </h4>
 
 ## Tópicos
@@ -44,13 +44,13 @@
   - :heavy_check_mark: Corretor Ortografico em Python: Aplicando técnicas de NLP - `04/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Corretor%20Ortogr%C3%A1fico%20em%20Python%20-%20aplicando%20t%C3%A9cnicas%20de%20NLP)
   - :heavy_check_mark: Scraping com Python: Coleta de dados Web - `11/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/01%20-%20Python%20para%20Data%20Science/Scraping%20com%20Python%20-%20coleta%20de%20dados%20na%20web)
 
-- <h3> 02 - SQL com MySQL Server da Oracle - <a href="https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle">:link:</a> </h3>
+- <h3> 02 - SQL com MySQL Server da Oracle - :heavy_check_mark: - <a href="https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle">:link:</a> </h3>
 
   - :heavy_check_mark: SQL com MySQL: Manipule e consulte dados - `14/10/2022 - 12h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/01%20-%20SQL%20com%20MySQL%20-%20manipule%20e%20consulte%20dados)
   - :heavy_check_mark: Consultas SQL: Avançando no SQL com MySQL - `20/10/2022 - 14h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/02%20-%20Consultas%20SQL%20-%20%20avan%C3%A7ando%20no%20SQL%20com%20MySQL)
   - :heavy_check_mark: Comandos DML: Manipulação de dados com MySQL - `26/10/2022 - 10h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/03%20-%20Comandos%20DML%20-%20manipula%C3%A7%C3%A3o%20de%20dados%20com%20MySQL)
   - :heavy_check_mark: Procedures SQL: Executando código no MySQL - `03/11/2022 - 14h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/04%20-%20Procedures%20SQL%20-%20executando%20c%C3%B3digo%20no%20MySQL)
-  - Administração do MySQL: Segurança e otimização do banco
+  - :heavy_check_mark: Administração do MySQL: Segurança e otimização do banco - `10/11/2022 - 16h` - [:link:](https://github.com/GustavoCMSilva/Aulas-Alura-Data-Science/tree/main/02%20-%20SQL%20com%20MySQL%20Server%20da%20Oracle/05%20-%20Administra%C3%A7ao%20do%20MySQL%20-%20Seguran%C3%A7a%20e%20otimiza%C3%A7ao%20do%20banco)
 
 - <h3> 03 - Power BI - <a href="https://camo.githubusercontent.com/e408df6d87efd76aa1954efeb0ca147fa1643154b596d97b5c4f138603560c74/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765">:link:</a> </h3>
 
